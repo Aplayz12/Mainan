@@ -175,11 +175,19 @@ https://sritv.biz.id/carpet/play.m3u8?id=17579&type=hls
 https://sritv.biz.id/carpet/play.m3u8?id=17579&type=hls
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/future/images/f/f1/2024_AFF_Championship_logo.png/revision/latest?cb=20240229081608" group-title="Live Event",AFF U19 (1)
-http://194.120.144.74:8070/live/e9cd5f24/079fd2c9/298550.ts
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/carpet/play.php?id=206&type=drm
+https://sritv.biz.id/carpet/play.mpd?id=206&type=dash
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/future/images/f/f1/2024_AFF_Championship_logo.png/revision/latest?cb=20240229081608" group-title="Live Event",AFF U19 (2)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://sritv.biz.id/carpet/play.m3u8?id=206&type=hls
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/future/images/f/f1/2024_AFF_Championship_logo.png/revision/latest?cb=20240229081608" group-title="Live Event",AFF U19 (3)
+http://194.120.144.74:8070/live/e9cd5f24/079fd2c9/298550.ts
 
 #EXTINF:0 tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/ibl.png" group-title="Live Event",IBL(1)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
