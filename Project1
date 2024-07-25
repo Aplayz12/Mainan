@@ -150,103 +150,88 @@
 #EXTM3U
 /////////Live////////!
 #EXTINF:0 tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2019/01/AVC-Logo-n.png" group-title="Live Event",AVC 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/carpet/play.php?id=206&type=drm
-https://sritv.biz.id/carpet/play.mpd?id=206&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=206&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=206&type=dash
 
 #EXTINF:0 tvg-logo="https://asianvolleyball.net/new/wp-content/uploads/2019/01/AVC-Logo-n.png" group-title="Live Event",AVC 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://sritv.biz.id/carpet/play.m3u8?id=206&type=hls
+https://dusk.biz.id/red/play.m3u8?id=206&type=hls
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/logo-live-event" group-title="Live Event",LIVE 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/carpet/play.php?id=17475&type=drm
-https://sritv.biz.id/carpet/play.mpd?id=17475&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=17475&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=17475&type=dash
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/logo-live-event" group-title="Live Event",LIVE 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/carpet/play.php?id=17475&type=drm
-https://sritv.biz.id/carpet/play.mpd?id=17475&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=206&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=206&type=dash
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/logo-live-event" group-title="Live Event",LIVE 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://sritv.biz.id/carpet/play.m3u8?id=17601&type=hls
+https://dusk.biz.id/red/play.m3u8?id=206&type=hls
 
 #EXTINF:0 tvg-logo="https://tinyurl.com/logo-live-event" group-title="Live Event",LIVE 4
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://sritv.biz.id/carpet/play.m3u8?id=17334&type=hls
+https://dusk.biz.id/red/play.m3u8?id=206&type=hls
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/future/images/f/f1/2024_AFF_Championship_logo.png/revision/latest?cb=20240229081608" group-title="Live Event",AFF U19 (1)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/carpet/play.php?id=17579&type=drm
-https://sritv.biz.id/carpet/play.mpd?id=17579&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=206&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=206&type=dash
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/future/images/f/f1/2024_AFF_Championship_logo.png/revision/latest?cb=20240229081608" group-title="Live Event",AFF U19 (2)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://sritv.biz.id/carpet/play.m3u8?id=206&type=hls
+https://dusk.biz.id/red/play.m3u8?id=206&type=hls
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/future/images/f/f1/2024_AFF_Championship_logo.png/revision/latest?cb=20240229081608" group-title="Live Event",AFF U19 (3)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/red/play.php?id=17578&type=drm
-https://sritv.biz.id/red/play.mpd?id=17578&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=206&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=206&type=dash
 
 #EXTINF:0 tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/ibl.png" group-title="Live Event",IBL(1)
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=16909&type=drm
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://sritv.biz.id/carpet/play.m3u8?id=16906&type=hls
+https://dusk.biz.id/red/play.mpd?id=16909&type=dash
 
 #EXTINF:0 tvg-logo="https://cdn.bleacherreport.net/images/team_logos/328x328/ibl.png" group-title="Live Event",IBL(2)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/carpet/play.php?id=16906&type=drm
-https://sritv.biz.id/carpet/play.mpd?id=16906&type=dash
+https://dusk.biz.id/red/play.m3u8?id=16909&type=hls
 
-#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-cvUgFHvk5sE/XH0FJN6fQmI/AAAAAAAASF4/u_TM1S8VEoMWii7tYz16TQZdVLYvl9lDACLcBGAs/s1600/Piala%2BPresiden%2B2019.png" group-title="Live Event",Piala President
+#EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-cvUgFHvk5sE/XH0FJN6fQmI/AAAAAAAASF4/u_TM1S8VEoMWii7tYz16TQZdVLYvl9lDACLcBGAs/s1600/Piala%2BPresiden%2B2019.png" group-title="Live Event",Piala President 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/carpet/play.php?id=17584&type=drm
-https://sritv.biz.id/carpet/play.mpd?id=17584&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/carpet/play.php?id=17585&type=drm
+https://sritv.biz.id/carpet/play.mpd?id=17585&type=dash
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-cvUgFHvk5sE/XH0FJN6fQmI/AAAAAAAASF4/u_TM1S8VEoMWii7tYz16TQZdVLYvl9lDACLcBGAs/s1600/Piala%2BPresiden%2B2019.png" group-title="Live Event",Piala President 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://sritv.biz.id/carpet/play.m3u8?id=17584&type=hls
+https://dusk.biz.id/red/play.m3u8?id=206&type=hls
 
 #EXTINF:0 tvg-logo="https://4.bp.blogspot.com/-cvUgFHvk5sE/XH0FJN6fQmI/AAAAAAAASF4/u_TM1S8VEoMWii7tYz16TQZdVLYvl9lDACLcBGAs/s1600/Piala%2BPresiden%2B2019.png" group-title="Live Event",Piala President 3
-http://108.181.132.217:8070/live/e9cd5f24/079fd2c9/162138.ts
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=17585&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=17585&type=dash
 
 #EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Volleyball-PNG-Photo.png" group-title="Live Event",PRO LIGA
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/carpet/play.php?id=17252&type=drm
-https://sritv.biz.id/carpet/play.mpd?id=17252&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/red/play.php?id=17252&type=drm
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://dusk.biz.id/red/play.mpd?id=17252&type=dash
 
 #EXTINF:0 tvg-logo="http://www.pngmart.com/files/4/Volleyball-PNG-Photo.png" group-title="Live Event",PRO LIGA (2)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://sritv.biz.id/carpet/play.m3u8?id=17599&type=hls
-
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-premierleague" group-title="Live Event",EPL (1)
-
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-premierleague" group-title="Live Event",EPL (2)
+https://dusk.biz.id/red/play.m3u8?id=17252&type=hls
 
 #EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="Live Event",LIGA BRI (1) 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
@@ -264,15 +249,11 @@ https://testfunctionlive.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3
 
 #EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="Live Event",Liga BRI (3) 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://sritv.biz.id/carpet/play.m3u8?id=205&type=hls
+https://dusk.biz.id/red/play.m3u8?id=205&type=hls
 
-#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="Live Event",LIGA BRI (4)
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.biz.id/carpet/play.php?id=13558&type=drm
-https://sritv.biz.id/carpet/play.mpd?id=13558&type=dash
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-premierleague" group-title="Live Event",EPL (1)
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-premierleague" group-title="Live Event",EPL (2)
 
 
 
@@ -430,7 +411,7 @@ http://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 
 /// HBO /////
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/476/791/png-clipart-hbo-now-hbo-go-television-hbo-latino-others-text-logo.png" group-title="HBO GROUP", HBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO GROUP", HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -438,6 +419,12 @@ http://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbohd/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="HBO GROUP", HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -465,6 +452,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/hbosign/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(774b9a1e-aa1a-425b-8f24-f90d48787777)/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO GROUP", Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -473,6 +465,12 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 https://cdnjkt4.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO GROUP", Cinemax
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ms.mayvee.workers.dev/cinemax/license-proxy-widevine/cenc/?specConform=true
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
 
 ///cinenemamaichi///
@@ -873,7 +871,7 @@ http://melon-live-cdn.mncnow.id:80/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mp
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="Sports",Soccer (AFC) 
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="Sports",Soccer 
 https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 ===Astrosp===
@@ -943,10 +941,21 @@ https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n4
 #EXTINF:0 tvg-logo="https://www.sttinfo.fi/data/images/00085/bac8530a-ea41-448c-b6c9-fafab62522de-w_960_h_960.jpg" group-title="Sports",Fight Sports 
 https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Sport 1
-https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/carpet/play.php?id=6299&type=drm
+https://dusk.biz.id/carpet/play.mpd?id=6299&type=dash
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/2560px-Bein_sport_logo.png",Bein Sport 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/carpet/play.php?id=6317&type=drm
+https://dusk.biz.id/carpet/play.mpd?id=6317&type=dash
 
 ---Dazn sports
 #EXTINF:-1 group-title="DAZN SPORTS" tvg-id="dazn1_spain" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1027457605030_image-header_pEs_1661945409000&quality=70&width=500",DAZN 1 Spain
